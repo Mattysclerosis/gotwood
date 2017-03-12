@@ -1,4 +1,7 @@
 ---
+markdown: kramdown
+baseurl: /morningwood
+exclude: ['README.md']
 title: Gotwood
 timezone: UTC
 collections:
