@@ -1,3 +1,3 @@
 markdown: kramdown
-baseurl: /morningwood/
+baseurl: /gotwood/
 exclude: ['README.md']
