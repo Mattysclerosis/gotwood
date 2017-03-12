@@ -1,6 +1,6 @@
 ---
 markdown: kramdown
-baseurl: /morningwood
+baseurl: /gotwood
 exclude: ['README.md']
 title: Gotwood
 timezone: UTC
